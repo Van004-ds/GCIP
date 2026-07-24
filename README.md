@@ -291,38 +291,37 @@ GCIP/
 
 ### Executive Dashboard
 
-![Executive Dashboard](Images/executive_dashboard.png)
+![Executive Dashboard](images/executive_dashboard.png)
 
 ---
 
 ### Customer Analytics
 
-![Customer Analytics](Images/customer_analytics.png)
-
+![Customer Analytics](images/customer_analytics.png)
 
 ---
 
 ### Sales Analytics
 
-![Sales Analytics](Images/sales_analytics.png)
+![Sales Analytics](images/sales_analytics.png)
 
 ---
 
 ### Product Analytics
 
-![Product Analytics](Images/product_analytics.png)
+![Product Analytics](images/product_analytics.png)
 
 ---
 
 ### Seller Analytics
 
-![Seller Analytics](Images/seller_analytics.png)
+![Seller Analytics](images/seller_analytics.png)
 
 ---
 
 ### Logistics Analytics
 
-![Logistics Analytics](Images/logistics_analytics.png)
+![Logistics Analytics](images/logistics_analytics.png)
 
 ---
 
