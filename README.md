@@ -105,7 +105,7 @@ Main entities include:
 - Product Category Translation
 
 The schema was designed to minimize redundancy while supporting efficient analytical queries.
-![Logistics Analytics](Images/imagess.png)
+![schema](images/imagess.png)
 
 ---
 
